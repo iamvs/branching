@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>master</td>
+      <td>Master</td>
       <td>master</td>
       <td>Accepts merges from Working and Hotfixes</td>
     </tr>
